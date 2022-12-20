@@ -1,0 +1,38 @@
+#gameDiv{
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:rgba(56, 171, 67, 0.507);
+    text-align: center;
+    width: 50%;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+
+#playerText{
+    color: rgb(204, 102, 6);
+}
+
+#computerText{
+    color: rgb(100, 20, 100);
+}
+
+#resultText{
+    color: rgba(255, 0, 0, 0.642);
+}
+
+.choiceBtn{
+    border-radius: 15px;
+    color: rgb(0, 71, 115);
+    cursor: pointer;
+    background-color:rgb(61, 240, 180);
+    font-size: 20px;
+}
+
+.choiceBtn:hover{
+    background-color: rgb(229, 235, 230);
+    transition: 0.5s;
+}
