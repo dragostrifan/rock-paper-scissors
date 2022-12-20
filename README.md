@@ -8,4 +8,4 @@ Simple game with HTML/CSS/JAVASCRIPT
 
 ![paper](https://user-images.githubusercontent.com/120646789/208659637-c53dee7b-718b-40c5-814c-c101ef0b79cd.png)
 
-Simple game with HTML/CSS/JAVASCRIPT
+
